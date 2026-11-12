@@ -1,0 +1,23 @@
+NETSPEED - COMPATIBILITY
+
+RASPBERRY PI OS 64-BIT
+Reference platform.
+
+RASPBERRY PI OS 32-BIT
+Requires compilation and verification.
+
+DEBIAN
+Possible if a compatible wf-panel-pi is available.
+
+UBUNTU AND LINUX MINT
+Possible only with a compatible wf-panel-pi installed.
+
+XFCE PANEL / LXPanel / WAYBAR
+Not directly compatible.
+
+WINDOWS / MACOS
+Not supported.
+
+ARCHITECTURES
+ARM64, ARM32, and x86_64 require local compilation.
+Compatibility also depends on the wf-panel-pi version.
